@@ -40,14 +40,9 @@
 
 ---
 
-<summary>📈 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subramanyaSgb&show_icons=true&theme=gotham" alt="Subramanya GB | Stats" />
-
 
 [twitter]: https://twitter.com/subramanya_gb
-[gmail]: https://gmail.com
-[Facebook]: https://www.facebook.com/ayushi7rawat
+[gmail]: https://subramanyagbellary@gmail.com
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
