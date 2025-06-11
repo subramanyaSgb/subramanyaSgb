@@ -500,26 +500,6 @@ class IndustrialAIEngineer:
 
 ---
 
-
-
-
-          
-## 🎓 EDUCATIONAL FOUNDATION
-
-| 🎓 **QUALIFICATION** | 🏫 **INSTITUTION** | 📅 **YEAR** | 📊 **SCORE** |
-|:---:|:---:|:---:|:---:|
-| B.E. in Computer Science | RYMEC Bellary | 2020 | 8.5 CGPA |
-| Diploma in CSE | BIET Davangere | 2017 | 85% |
-
-### 🎯 ACADEMIC PROJECT HIGHLIGHTS
-
-- **IoT Virtual Assistant**: Smart home automation with voice control
-- **SAM Desktop Assistant**: Python-based productivity tool
-- **Hostel Management System**: Web-based administration platform
-- **College Social Media Platform**: Student networking application
-
----
-
 <div align="center">
 
 ## 🔮 CURRENT MISSION & FUTURE VISION
