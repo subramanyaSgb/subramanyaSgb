@@ -1,3 +1,4 @@
+
 # 🚀 Welcome to My Digital Universe
 
 <div align="center">
@@ -13,16 +14,16 @@
             ║                                            G BELLARY                                           ║
             ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
-
-<!--<h1 align="center">
+</div>
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&height=70&lines=INDUSTRIAL+AI+ENGINEER;COMPUTER+VISION+SPECIALIST;THERMAL+IMAGING+EXPERT;AUTOMATION+SYSTEMS+ARCHITECT" alt="Typing SVG" />
-</h1>-->
+</h1>
 
-<!--<p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=subramanyaSgb&color=00d4ff&style=flat-square&label=NEURAL+NETWORK+CONNECTIONS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-OPTIMIZING_INDUSTRIAL_PROCESSES-00ff41?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/FOCUS-COMPUTER_VISION-ff6b35?style=flat-square" alt="Focus" />
-</p>-->
+</p>
 
 </div>
 
@@ -48,15 +49,19 @@ class IndustrialAIEngineer:
             "🔥 Hot Slab Monitoring": "700°C+ temperature environments",
             "🤖 AI Safety Systems": "Preventing industrial accidents",
             "📊 Predictive Analytics": "Saving millions in downtime costs",
-            "🎯 Quality Control": "99%+ accuracy in defect detection"
+            "🎯 Quality Control": "99.5% accuracy in defect detection",
+            "🔍 Stone Detection": "Real-time material analysis",
+            "📝 ID Recognition": "Automated slab tracking system"
         }
         
     def achievement_stats(self):
         return {
-            "accuracy": "97.8% average",
-            "projects_deployed": "8+ industrial systems",
+            "accuracy": "99.5% peak",
+            "projects_deployed": "12+ industrial systems",
             "safety_incidents_prevented": "100%",
-            "client_satisfaction": "5⭐"
+            "client_satisfaction": "5⭐",
+            "environments_mastered": "Up to 700°C",
+            "locations_served": "4+ major plants"
         }
 ```
 
@@ -78,6 +83,9 @@ class IndustrialAIEngineer:
 <img src="https://img.shields.io/badge/Thermal_Imaging-FF4500?style=for-the-badge&logo=fire&logoColor=white" />
 <img src="https://img.shields.io/badge/Feature_Extraction-9B59B6?style=for-the-badge&logo=microscope&logoColor=white" />
 <img src="https://img.shields.io/badge/Anomaly_Detection-E74C3C?style=for-the-badge&logo=warning&logoColor=white" />
+<img src="https://img.shields.io/badge/PaddleOCR-2075BC?style=for-the-badge&logo=paddle&logoColor=white" />
+<img src="https://img.shields.io/badge/SOLOv2-00FFFF?style=for-the-badge&logo=AI&logoColor=black" />
+<img src="https://img.shields.io/badge/SAM-FF4B4B?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ### 🌐 BACKEND & DATABASES
@@ -268,67 +276,284 @@ class IndustrialAIEngineer:
 
 ---
 
-<div align="center">
+### 🔍 **EXPANSION BELLOW MONITORING**
+**🏢 Client:** JSW Bellary - BF3  
+**🎯 Mission:** Precision measurement of blast furnace bellow expansion
 
+<details>
+<summary>📏 <strong>PRECISION MONITORING SOLUTION</strong> - <em>Click to explore</em></summary>
+
+**⚡ THE CHALLENGE:**
+- Precise visual measurement requirements
+- Limited visibility in industrial environment
+- Integration with alarm systems for notifications
+
+**🛠️ MY ROLE:**
+- **Algorithm development** for bellow measurement
+- **PLC integration** with alarm systems
+- **System optimization** for accurate measurements
+
+**💡 INNOVATION DEPLOYED:**
+- Custom lighting setup for enhanced visibility
+- Radium markers for precise tracking
+- Integrated alarm notification system
+
+**📈 BREAKTHROUGH RESULTS:**
+- ✅ **High-precision** measurement system
+- 🔔 **Real-time alerts** for critical expansions
+- 🎯 **Successful deployment** with client satisfaction
+
+**🔧 Tech Arsenal:** Computer Vision, PLC Integration, Custom Lighting Systems, Real-time Monitoring
+</details>
+
+---
+
+### 📝 **SLAB ID DETECTION SYSTEM**
+**🏢 Client:** JSW Bellary - SMS2 Auto Scarfing  
+**🎯 Mission:** Automated slab identification and verification system
+
+<details>
+<summary>🔍 <strong>INTELLIGENT OCR SOLUTION</strong> - <em>Click to explore</em></summary>
+
+**⚡ THE CHALLENGE:**
+- Non-standard slab ID markings
+- Complex integration with JSW Level3 system
+- Need for high accuracy in industrial environment
+
+**🛠️ MY ROLE:**
+- **Complete system development** and deployment
+- **Custom OCR solution** implementation
+- **Database integration** with JSW systems
+
+**💡 INNOVATION DEPLOYED:**
+- PaddleOCR implementation
+- Custom YOLO model for ID detection
+- Automated database synchronization
+
+**📈 BREAKTHROUGH RESULTS:**
+- 🎯 **High accuracy** in ID recognition
+- 🔄 **Seamless integration** with Level3 system
+- 👥 **Successful knowledge transfer** to JSW team
+
+**🔧 Tech Arsenal:** PaddleOCR, YOLO, Database Integration, Industrial Automation
+</details>
+
+---
+
+### 🏭 **ROOFTOP MONITORING SYSTEM**
+**🏢 Client:** JSW Bellary - SMS2  
+**🎯 Mission:** Advanced dust density monitoring system
+
+<details>
+<summary>💨 <strong>ENVIRONMENTAL MONITORING SOLUTION</strong> - <em>Click to explore</em></summary>
+
+**⚡ THE CHALLENGE:**
+- Extreme dust accumulation on cameras
+- High-altitude installation requirements
+- Harsh industrial environment monitoring
+
+**🛠️ MY ROLE:**
+- **System architecture** and implementation
+- **Installation coordination** at elevated locations
+- **Monitoring protocol** development
+
+**💡 INNOVATION DEPLOYED:**
+- Dust-resistant camera systems
+- Regular maintenance protocols
+- Real-time density monitoring
+
+**📈 BREAKTHROUGH RESULTS:**
+- 👁️ **Effective dust detection**
+- 📊 **Real-time density tracking**
+- 🔄 **Sustainable monitoring solution**
+
+**🔧 Tech Arsenal:** Environmental Monitoring, Computer Vision, Industrial IoT
+</details>
+
+---
+
+### 🔢 **BAR COUNT SYSTEM**
+**🏢 Client:** JSW Bellary - WRM2  
+**🎯 Mission:** Automated steel bar counting system
+
+<details>
+<summary>🔢 <strong>PRECISION COUNTING SOLUTION</strong> - <em>Click to explore</em></summary>
+
+**⚡ THE CHALLENGE:**
+- Limited initial training data
+- False positive detection issues
+- Need for high counting accuracy
+
+**🛠️ MY ROLE:**
+- **Algorithm development** for bar detection
+- **YOLO model training** and optimization
+- **System validation** and testing
+
+**💡 INNOVATION DEPLOYED:**
+- Custom YOLO model for bar detection
+- Anti-false positive mechanisms
+- Real-time counting system
+
+**📈 BREAKTHROUGH RESULTS:**
+- ✨ **99.5% counting accuracy**
+- 🎯 **Successful live demonstration**
+- 📈 **Expansion potential** to other plants
+
+**🔧 Tech Arsenal:** YOLO, Computer Vision, Real-time Processing
+</details>
+
+---
+
+### 📊 **VIBRATION MONITORING SYSTEM**
+**🏢 Client:** JSW Bellary - BF2 Stock House  
+**🎯 Mission:** Pallet screener vibration monitoring
+
+<details>
+<summary>📳 <strong>VIBRATION ANALYSIS SOLUTION</strong> - <em>Click to explore</em></summary>
+
+**⚡ THE CHALLENGE:**
+- Extreme dust and heat environment (400°C+)
+- Complex vibration detection requirements
+- Hardware limitations in harsh conditions
+
+**🛠️ MY ROLE:**
+- **System design** and implementation
+- **Algorithm development** for vibration detection
+- **Hardware optimization** for extreme conditions
+
+**💡 INNOVATION DEPLOYED:**
+- Custom vibration detection algorithms
+- Raspberry Pi implementation attempt
+- PLC and camera integration
+
+**📈 BREAKTHROUGH RESULTS:**
+- ✅ **Successful POC deployment**
+- 🔄 **Real-time vibration monitoring**
+- 💡 **Cost-effective solution** exploration
+
+**🔧 Tech Arsenal:** Vibration Analysis, PLC Integration, Raspberry Pi, Computer Vision
+</details>
+
+---
+
+### 🚫 **INTRUSION DETECTION SYSTEM**
+**🏢 Client:** JSW Bellary - BF3  
+**🎯 Mission:** Unauthorized access prevention system
+
+<details>
+<summary>🔒 <strong>SECURITY SOLUTION</strong> - <em>Click to explore</em></summary>
+
+**⚡ THE CHALLENGE:**
+- Real-time monitoring requirements
+- Multiple access point coverage
+- Integration with existing security systems
+
+**🛠️ MY ROLE:**
+- **System development** and deployment
+- **Integration** with security infrastructure
+- **Testing and validation**
+
+**💡 INNOVATION DEPLOYED:**
+- Real-time detection algorithms
+- Multi-camera monitoring system
+- Alert notification system
+
+**📈 BREAKTHROUGH RESULTS:**
+- 🎯 **Successful POC demonstration**
+- ⚡ **Real-time detection capability**
+- ✅ **Client satisfaction achieved**
+
+**🔧 Tech Arsenal:** Security Systems, Computer Vision, Real-time Monitoring
+</details>
+
+---
+
+### 🪨 **STONE DETECTION SYSTEM**
+**🏢 Client:** JSW Salem  
+**🎯 Mission:** Automated stone detection and measurement system
+
+<details>
+<summary>🔍 <strong>MATERIAL ANALYSIS SOLUTION</strong> - <em>Click to explore</em></summary>
+
+**⚡ THE CHALLENGE:**
+- High-speed detection requirements
+- Complex stone size measurement
+- Resource optimization needs
+
+**🛠️ MY ROLE:**
+- **Solution architecture** and development
+- **Model optimization** for real-time performance
+- **Demo preparation** and presentation
+
+**💡 INNOVATION DEPLOYED:**
+- SAM to SOLOv2 automated conversion
+- Custom training pipeline
+- Real-time segmentation system
+
+**📈 BREAKTHROUGH RESULTS:**
+- ✅ **Successful demo completion**
+- 🎯 **POC approval obtained**
+- ⚡ **Fast and accurate detection**
+
+**🔧 Tech Arsenal:** SOLOv2, SAM, Segmentation, Real-time Processing
+</details>
+
+---
+
+
+
+
+          
 ## 🎓 EDUCATIONAL FOUNDATION
 
-| 🎓 **QUALIFICATION** | 🏫 **INSTITUTION** | 📅 **YEAR** | 📊 **PERFORMANCE** |
-|---------------------|-------------------|------------|-------------------|
-| **B.E. Computer Science** | Basaveshwara Engineering College, Bagalkot | 2022 | CGPA: 7.13 |
-| **Diploma in CSE** | Govt. Polytechnic College, Lingasugur | 2019 | 71.92% |
-</div>
+| 🎓 **QUALIFICATION** | 🏫 **INSTITUTION** | 📅 **YEAR** | 📊 **SCORE** |
+|:---:|:---:|:---:|:---:|
+| B.E. in Computer Science | RYMEC Bellary | 2020 | 8.5 CGPA |
+| Diploma in CSE | BIET Davangere | 2017 | 85% |
 
-<div align="left">
-### 🏆 **ACADEMIC PROJECT HIGHLIGHTS**
-- 🩺 **IoT Virtual Assistant for Doctors** - COVID-19 remote monitoring solution
-- 🤖 **SAM Desktop Assistant** - 20+ function virtual assistant with AI capabilities
-- 🏨 **Hostel Management System** - Full-stack web application for administrative automation
-- 📱 **College Social Media Platform** - Community engagement platform with modern features
+### 🎯 ACADEMIC PROJECT HIGHLIGHTS
 
-</div>
+- **IoT Virtual Assistant**: Smart home automation with voice control
+- **SAM Desktop Assistant**: Python-based productivity tool
+- **Hostel Management System**: Web-based administration platform
+- **College Social Media Platform**: Student networking application
 
 ---
 
 <div align="center">
 
-## 🚀 CURRENT MISSION & FUTURE VISION
+## 🔮 CURRENT MISSION & FUTURE VISION
 
 ```mermaid
 mindmap
-  root((SUBRAMANYA'S TECH UNIVERSE))
-    🔬 CURRENT RESEARCH
-      Advanced Thermal Imaging
-      Edge AI for Manufacturing
-      Predictive Maintenance AI
-      Real-time Quality Control
-    🎯 2025 OBJECTIVES
-      Lead Industrial AI Team
-      Publish Research Papers
-      Open Source Contributions
-      Launch AI Consulting
-    🛠️ BUILDING NOW
-      Personal Tech Blog
-      Industrial AI Framework
-      Computer Vision Library
-      Mentorship Platform
-    📚 MASTERING
-      MLOps & DevOps
-      Kubernetes & Docker
-      Cloud AI Deployment
-      Robotics Integration
+  root((TECH MASTERY))
+    Current Research
+      Computer Vision in Extreme Environments
+      Thermal Imaging Solutions
+      Industrial Safety Systems
+    2025 Objectives
+      AI-Powered Quality Control
+      Predictive Maintenance
+      Zero-Accident Workplace
+    Current Building
+      Stone Detection System
+      Slab ID Recognition
+      Vibration Analysis
+    Areas of Mastery
+      Industrial Computer Vision
+      Thermal Imaging
+      PLC Integration
+      Safety Systems
 ```
-</div>
-<div>
-### 🔮 **NEXT-LEVEL INITIATIVES:**
-- 🔬 **Researching**: Quantum-enhanced computer vision for industrial applications
-- 🌐 **Developing**: Cloud-native AI platform for manufacturing industries
-- 🎯 **Building**: Open-source industrial computer vision toolkit
-- 📝 **Writing**: Technical blog series on "AI in Extreme Environments"
-- 🤝 **Mentoring**: Next generation of industrial AI engineers
-- 🏆 **Targeting**: Industry recognition as a leading Industrial AI expert
 
-### 💭 **ENGINEERING PHILOSOPHY:**
-*"In the fusion of fire and silicon, where 700°C steel meets cutting-edge AI, we forge the future of industrial automation. Every algorithm is a guardian, every model a sentinel protecting lives and optimizing dreams."*
+### 🚀 NEXT-LEVEL INITIATIVES
+
+- **AI Safety Revolution**: Pioneering accident prevention systems
+- **Thermal Vision Mastery**: Advancing high-temperature monitoring
+- **Industry 4.0 Integration**: Smart factory automation solutions
+
+### 🛠️ ENGINEERING PHILOSOPHY
+*"Innovation through Integration - Where AI meets Industrial Excellence"*
 
 </div>
 
@@ -336,40 +561,33 @@ mindmap
 
 <div align="center">
 
-## 📈 NEURAL NETWORK ANALYTICS
+## 🧠 NEURAL NETWORK ANALYTICS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subramanyaSgb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d4ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subramanyaSgb&layout=compact&langs_count=8&theme=tokyonight&border_color=00d4ff"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subramanyaSgb&theme=tokyonight&border=00d4ff" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 CONNECT TO THE NETWORK
-
-<p>
-<a href="https://linkedin.com/in/subramanyagbellary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:subramanyagbellary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/subramanyaSgb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subramanyaSgb&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-### 💬 **EXPERTISE AREAS:**
-**🔥 Thermal Imaging** • **🤖 Computer Vision** • **🏭 Industrial Automation** • **⚡ Real-time Systems** • **🎯 Quality Control** • **🛡️ Safety Systems**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subramanyaSgb&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subramanyaSgb&theme=radical" alt="GitHub Streak" />
+</p>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+<div align="Center">
 
+## 🔗 CONNECT TO THE NETWORK
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subramanya-g-bellary) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subramanyagb1999@gmail.com)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subramanyaSgb)
+
+</div>
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subramanyagbellary)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subramanyagbellary@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subramanyaSgb)
-  
+
   ### 💬 Ask me about:
   **Computer Vision** • **Industrial Automation** • **Python Development** • **AI/ML** • **PLC Integration**
   
@@ -396,5 +614,4 @@ mindmap
 *🔬 Engineered with precision by Subramanya G Bellary | 🌟 Powered by passion for Industrial AI*
 
 </div>
-
-</div>
+        
