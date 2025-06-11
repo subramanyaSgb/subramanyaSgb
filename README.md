@@ -277,7 +277,8 @@ class IndustrialAIEngineer:
 | **B.E. Computer Science** | Basaveshwara Engineering College, Bagalkot | 2022 | CGPA: 7.13 |
 | **Diploma in CSE** | Govt. Polytechnic College, Lingasugur | 2019 | 71.92% |
 </div>
-<div>
+
+<div align="left">
 ### 🏆 **ACADEMIC PROJECT HIGHLIGHTS**
 - 🩺 **IoT Virtual Assistant for Doctors** - COVID-19 remote monitoring solution
 - 🤖 **SAM Desktop Assistant** - 20+ function virtual assistant with AI capabilities
