@@ -14,9 +14,9 @@
             ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<h1 align="center">
+<!--<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&height=70&lines=INDUSTRIAL+AI+ENGINEER;COMPUTER+VISION+SPECIALIST;THERMAL+IMAGING+EXPERT;AUTOMATION+SYSTEMS+ARCHITECT" alt="Typing SVG" />
-</h1>
+</h1>-->
 
 <!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=subramanyaSgb&color=00d4ff&style=flat-square&label=NEURAL+NETWORK+CONNECTIONS" alt="Profile Views" />
