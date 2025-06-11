@@ -27,7 +27,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ## ⚡ SYSTEM SPECIFICATIONS
 
