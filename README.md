@@ -53,11 +53,9 @@ class IndustrialAIEngineer:
         
     def achievement_stats(self):
         return {
-            "cost_savings": "₹15M+ annually",
             "accuracy": "97.8% average",
             "projects_deployed": "8+ industrial systems",
             "safety_incidents_prevented": "100%",
-            "extreme_temp_operations": "700°C+",
             "client_satisfaction": "5⭐"
         }
 ```
