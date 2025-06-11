@@ -153,9 +153,9 @@ graph LR
 
 <div align="center">
   
-  ### 🌟 Show Some Love!
+  <!--### 🌟 Show Some Love!
   
-  **If you find my work interesting, consider starring ⭐ some repositories!**
+  **If you find my work interesting, consider starring ⭐ some repositories!**-->
   
   ![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
   
