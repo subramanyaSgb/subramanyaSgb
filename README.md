@@ -271,33 +271,14 @@ class IndustrialAIEngineer:
 
 <div align="center">
 
-## 📊 IMPACT DASHBOARD
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                          🌟 INDUSTRIAL ACHIEVEMENT MATRIX 🌟                 ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║  💰 Total Cost Savings: ₹15M+        🏭 Systems Deployed: 8+                 ║
-║  🌡️ Max Operating Temp: 700°C        ⚡ Latency Reduction: 80%               ║
-║  🎯 Average Accuracy: 95%+           🛡️ Safety Incidents: 0                 ║
-║  🔧 Camera Cooling: 70°C→40°C        📈 Process Efficiency: +40%             ║
-║  🏢 Major Clients: Toyota, JSW      🚀 Project Success Rate: 100%           ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
 ## 🎓 EDUCATIONAL FOUNDATION
 
 | 🎓 **QUALIFICATION** | 🏫 **INSTITUTION** | 📅 **YEAR** | 📊 **PERFORMANCE** |
 |---------------------|-------------------|------------|-------------------|
 | **B.E. Computer Science** | Basaveshwara Engineering College, Bagalkot | 2022 | CGPA: 7.13 |
 | **Diploma in CSE** | Govt. Polytechnic College, Lingasugur | 2019 | 71.92% |
-
+</div>
+<div>
 ### 🏆 **ACADEMIC PROJECT HIGHLIGHTS**
 - 🩺 **IoT Virtual Assistant for Doctors** - COVID-19 remote monitoring solution
 - 🤖 **SAM Desktop Assistant** - 20+ function virtual assistant with AI capabilities
@@ -336,7 +317,8 @@ mindmap
       Cloud AI Deployment
       Robotics Integration
 ```
-
+</div>
+<div>
 ### 🔮 **NEXT-LEVEL INITIATIVES:**
 - 🔬 **Researching**: Quantum-enhanced computer vision for industrial applications
 - 🌐 **Developing**: Cloud-native AI platform for manufacturing industries
@@ -398,13 +380,13 @@ mindmap
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🚀 TRANSFORMING INDUSTRY, ONE ALGORITHM AT A TIME 🚀               ║
-║                                                                      ║
-║  "Where traditional engineering meets artificial intelligence,       ║
-║   where extreme environments meet extreme precision,                 ║
-║   where innovation meets implementation."                            ║
-╚══════════════════════════════════════════════════════════════════════╝
+          ╔══════════════════════════════════════════════════════════════════════╗
+          ║  🚀 TRANSFORMING INDUSTRY, ONE ALGORITHM AT A TIME 🚀               ║
+          ║                                                                      ║
+          ║  "Where traditional engineering meets artificial intelligence,       ║
+          ║   where extreme environments meet extreme precision,                 ║
+          ║   where innovation meets implementation."                            ║
+          ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
