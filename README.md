@@ -97,8 +97,9 @@ Offline-capable PWA for income/expense tracking with category breakdowns and sav
 ### Stats
 
 <p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=subramanyaSgb&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subramanyaSgb&layout=compact&theme=default&hide_border=true&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=subramanyaSgb&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
+&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=subramanyaSgb&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
